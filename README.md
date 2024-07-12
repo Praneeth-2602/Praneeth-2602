@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+![Black Minimal Motivation Quote GitHubBanner](https://github.com/user-attachments/assets/6aad4f25-48ce-4528-af38-da7b5b921bf5)
+
+#
+
 <h1 align="center">Hi 👋, I'm Praneeth Palugula</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
