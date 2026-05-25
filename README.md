@@ -28,14 +28,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Praneeth-2602&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Praneeth-2602/Praneeth-2602/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Praneeth-2602&icon=7&color=13)](https://visitcount.itsvg.in)
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
