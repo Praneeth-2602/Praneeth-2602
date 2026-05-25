@@ -31,4 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Praneeth-2602&icon=7&color=13)](https://visitcount.itsvg.in)
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Praneeth-2602/Praneeth-2602/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
