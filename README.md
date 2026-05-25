@@ -32,8 +32,6 @@
 <p align="center">
   <img src="https://github.com/Praneeth-2602/Praneeth-2602/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=Praneeth-2602&icon=7&color=13)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
